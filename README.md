@@ -1,11 +1,14 @@
-This extension provides some simple templates using which developers can build solidity smart contracts. 
+This extension to VSCode provides some templates for developing smart contracts in the Solidity language.
+
+It was developed during the Future of Blockchain hackathon that was run between the Universities of Cambridge, Oxford, London or Berlin.
 
 ## Acknowledgment
+Sprytech
 Ethereum Studio
 Remix IDE
 
 ## Features
-This extension allows developer to create smart contract using solidity template files. 
+This extension to VSCode allows developer to create smart contract using solidity template files. 
 
 
 ## Requirements
