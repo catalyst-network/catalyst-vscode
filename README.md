@@ -10,17 +10,6 @@ Remix IDE
 ## Features
 This extension to VSCode allows developer to create smart contract using solidity template files. 
 
-Features include:-
-
-* Syntax Highlighter For Solidity
-* Snippet Injection
-* Boilerplates for
-  * ERC20 Token
-  * ERC721 Non-Fungible Token
-  * Stablecoin
-  * CryptoKitties
-  * Chainlink
-
 ## Requirements
 This extension required you to have solidity compiler in vscode extension.
 Requires windows system.
